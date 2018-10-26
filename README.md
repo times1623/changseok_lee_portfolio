@@ -1,6 +1,6 @@
-# Cho Jeongyun HW4_AV_App
+# Lee Changseok Portfolio Website
 
-Building an audio / video app
+Building Portfolio website
 
 ### Prerequisites
 
